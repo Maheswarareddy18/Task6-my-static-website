@@ -1,6 +1,5 @@
 ## Task6-my-static-website
-#1Create an index.html file 
-Start by creating a simple HTML file. This file will be the homepage of your website.
+#1Create an index.html file Start by creating a simple HTML file. This file will be the homepage of your website.
 
 #Create a New GitHub Repository
 Go to your GitHub account and create a new public repository. You can name it whatever you like, for example, my-static-website.
